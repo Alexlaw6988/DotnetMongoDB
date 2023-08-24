@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0Mz//LyMDoxYoMlqv0V8N4/mk7/whgF2ii0NOWoGFM4=",
+  "Source": "DotnetMongoDB",
+  "BasePath": "_content/DotnetMongoDB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
